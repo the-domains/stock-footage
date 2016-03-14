@@ -1,6 +1,6 @@
 name: stock footage
 favicon: null
-layout_spectrum: 0.49638589890673757
+layout_spectrum: 0.76026
 typography_spectrum: 0.04043261846527457
 title: OrlowskiDesigns Stock Footage
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#5aaedd'
+    - '#ffffff'
+    - '#f8fefe'
+    - '#57abda'
+    - '#f4f9f9'
   brandStrength: 0.9187717635650188
   lightness: 0.2937014845665544
   saturation: 0.6849051287863404
