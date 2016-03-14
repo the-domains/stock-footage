@@ -1,0 +1,28 @@
+name: stock footage
+favicon: null
+layout_spectrum: 0.49638589890673757
+typography_spectrum: 0.04043261846527457
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9187717635650188
+  lightness: 0.2937014845665544
+  saturation: 0.6849051287863404
+  rhythmicContrast: 0.6609655558131635
+purpose: []
