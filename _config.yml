@@ -2,12 +2,13 @@ name: stock footage
 favicon: null
 layout_spectrum: 0.49638589890673757
 typography_spectrum: 0.04043261846527457
+title: OrlowskiDesigns Stock Footage
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-75102818-1
   facebook: null
   twitter: null
 opengraph:
